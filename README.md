@@ -16,7 +16,8 @@ Note: GitHub does not render inline videos in README. The demo files are in `sta
 
 
 <video src="static/video_2025-10-23_20-40-14.webm" width="320" height="240" controls></video>
-- [Demo 2 — 2025-10-23 20:40:28](static/video_2025-10-23_20-40-28.webm)
+<video src="static/video_2025-10-23_20-40-28.webm" width="320" height="240" controls></video>
+
 
 ## Hardware
 - **Board**: M5Stack Fire (`board = m5stack-fire`)
