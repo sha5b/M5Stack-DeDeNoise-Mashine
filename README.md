@@ -11,9 +11,10 @@ A handheld chaos machine that turns your M5Stack Fire into a pocket-sized noise 
 ## Demos
 - Short handheld clips of the app running on M5Stack Fire.
 
-<video src="static/video_2025-10-23_20-40-14.mp4" controls width="600"></video>
+Note: GitHub does not render inline videos in README. The demo files are in `static/`. Use these links to watch them:
 
-<video src="static/video_2025-10-23_20-40-28.webm" controls width="600"></video>
+- [Demo 1 — 2025-10-23 20:40:14](static/video_2025-10-23_20-40-14.webm)
+- [Demo 2 — 2025-10-23 20:40:28](static/video_2025-10-23_20-40-28.webm)
 
 ## Hardware
 - **Board**: M5Stack Fire (`board = m5stack-fire`)
