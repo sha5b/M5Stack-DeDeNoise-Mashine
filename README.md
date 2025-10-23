@@ -1,4 +1,4 @@
-# M5Stack-F25 Noise Synth & Visualizer (for M5Stack Fire)
+# M5Stack-Fire Noise Synth & Visualizer 
 
 A handheld chaos machine that turns your M5Stack Fire into a pocket-sized noise lab, because silence is overrated and your neighbors had it too easy anyway.
 
@@ -13,7 +13,7 @@ A handheld chaos machine that turns your M5Stack Fire into a pocket-sized noise 
 
 <video src="static/video_2025-10-23_20-40-14.mp4" controls width="600"></video>
 
-<video src="static/video_2025-10-23_20-40-28.mp4" controls width="600"></video>
+<video src="static/video_2025-10-23_20-40-28.webm" controls width="600"></video>
 
 ## Hardware
 - **Board**: M5Stack Fire (`board = m5stack-fire`)
